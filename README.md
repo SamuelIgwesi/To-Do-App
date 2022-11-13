@@ -1,2 +1,2 @@
 # To-Do-App
-Created with HTML, CSS and Vanilla JS
+This is a simple to do app that allows you to add tasks and delete on completion of task.
